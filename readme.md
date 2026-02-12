@@ -147,10 +147,10 @@ java MatchingCardsGame
 ## 📸 Screenshots
 
 ### ✅ Match Example
-<img src="matched.png" />
+<img src="Matched.png" />
 
 ### ❌ Unmatched Example
-<img src="unmatched.png" />
+<img src="Unmatched.png" />
 
 ---
 
